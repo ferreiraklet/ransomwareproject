@@ -1,2 +1,9 @@
-# ransomwareproject
-This is a mini ransomware made with python o/
+# RansomWare-Project
+## This is a mini ransomware made with python OOP o/
+
+
+### It is only for educational porposes!!!
+
+
+### Only for educationao porposes. If used in a bad way, I will not be responsible for your actions!
+
