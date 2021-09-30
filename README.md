@@ -5,5 +5,5 @@
 ### It is only for educational porposes!!!
 
 
-### Only for educationao porposes. If used in a bad way, I will not be responsible for your actions!
+### Only for educational porposes. If used in a bad way, I will not be responsible for your actions!
 
