@@ -129,6 +129,6 @@ if __name__ == "__main__":
     if sys.platform.startswith("linux") == True:  # If os is special, remove this if
         crypt.linuxboot_encrypt()
         crypt.linux_encrypt()
-    if os.name == "nt":
+    if sys.platform.startswith("Windows") == True:
         crypt.windows_encrypt()
 
