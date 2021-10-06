@@ -8,4 +8,5 @@ OBS: This ransom does not have descrypt mode!
 
 
 ### Only for educational porposes. If used in a bad way, I will not be responsible for your actions!
+I don't support nor condone illegal or unethical actions
 
